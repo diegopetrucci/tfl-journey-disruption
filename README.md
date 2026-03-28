@@ -32,6 +32,10 @@ python3 tfl-journey-disruption/scripts/tfl_journey_disruptions.py "940GZZLUSTD" 
 python3 tfl-journey-disruption/scripts/tfl_journey_disruptions.py --from "Stratford" --to "W1F 9LD" --arrive-by 1800
 ```
 
+## More Skills Like This
+
+Found this skill useful? Browse all my hand-crafted ones in the [AI Agents skills](https://github.com/diegopetrucci/ai-agents-skills) repo.
+
 ## License
 
 MIT
