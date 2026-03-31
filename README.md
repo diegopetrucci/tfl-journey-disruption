@@ -14,6 +14,15 @@ When a user needs a London journey plan with disruption awareness, this skill:
 
 ## Installation
 
+### As a Claude Code plugin
+
+```shell
+/plugin marketplace add diegopetrucci/ai-agents-skills
+/plugin install tfl-journey-disruption@diegopetrucci-claude-plugins
+```
+
+### As a skill
+
 ```bash
 npx skills add https://github.com/diegopetrucci/tfl-journey-disruption --skill tfl-journey-disruption
 ```
