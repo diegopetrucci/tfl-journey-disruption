@@ -1,0 +1,21 @@
+{
+  "name": "tfl-journey-disruption",
+  "version": "1.0.0",
+  "description": "Plan TfL journeys and warn about disruptions.",
+  "author": {
+    "name": "Diego Petrucci",
+    "url": "https://github.com/diegopetrucci"
+  },
+  "repository": "https://github.com/diegopetrucci/tfl-journey-disruption",
+  "license": "MIT",
+  "keywords": ["transport", "tfl", "journey", "disruptions"],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "TfL Journey Disruption",
+    "shortDescription": "Plan TfL routes with disruption checks",
+    "longDescription": "Plan London TfL journeys, resolve locations, check live line disruptions, and suggest alternatives when routes are affected.",
+    "developerName": "Diego Petrucci",
+    "category": "Productivity",
+    "capabilities": ["Read", "Execute"]
+  }
+}
