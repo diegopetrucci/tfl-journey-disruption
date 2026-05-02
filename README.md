@@ -27,6 +27,14 @@ npx skills add https://github.com/diegopetrucci/tfl-journey-disruption --skill t
 /plugin install tfl-journey-disruption@diegopetrucci-claude-plugins
 ```
 
+### As a Codex plugin
+
+```shell
+codex plugin marketplace add diegopetrucci/ai-agents-skills
+```
+
+Restart Codex, then install `tfl-journey-disruption` from the "Diego Petrucci Agent Skills" marketplace in the plugin directory.
+
 ## Usage
 
 Trigger the skill when a user wants a TfL journey plan with disruption awareness:
