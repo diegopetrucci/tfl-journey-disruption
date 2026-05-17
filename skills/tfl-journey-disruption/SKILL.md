@@ -4,7 +4,7 @@ description: Plan TfL journeys from start/end/time, resolve locations (prefer po
 license: MIT
 metadata:
   author: Diego Petrucci
-  version: "1.0"
+  version: "1.1"
 ---
 
 # TfL Journey Planner + Disruption Checks
