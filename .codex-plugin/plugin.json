@@ -1,6 +1,6 @@
 {
   "name": "tfl-journey-disruption",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Plan TfL journeys and warn about disruptions.",
   "author": {
     "name": "Diego Petrucci",
@@ -16,6 +16,9 @@
     "longDescription": "Plan London TfL journeys, resolve locations, check live line disruptions, and suggest alternatives when routes are affected.",
     "developerName": "Diego Petrucci",
     "category": "Productivity",
-    "capabilities": ["Read", "Execute"]
+    "capabilities": ["Read", "Execute"],
+    "defaultPrompt": [
+      "Check this TfL journey for live disruptions."
+    ]
   }
 }
